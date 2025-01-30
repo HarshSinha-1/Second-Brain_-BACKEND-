@@ -1,0 +1,2 @@
+export const JWT_password : string = "HeyDevilhere!!";
+export const MONGO_URL : string = "mongodb+srv://harshsinha969:Sinha%40234@cluster0.xhebw.mongodb.net/myDatabaseName?retryWrites=true&w=majority&appName=Cluster0";
